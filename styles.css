@@ -1,7 +1,7 @@
 /* CSS Selectors */
 
 img{width: 300px;}
-h1{font-size: 60px;text-shadow: 2px 3px; text-align: center;}
+h1{font-size: 60px; text-align: center;}
 #finalh4{font-style: italic;border: 3px solid;text-decoration: underline 2px;}
 .class{font-size: 20px;}
 *{font-family: "Inter", sans-serif;}
