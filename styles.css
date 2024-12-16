@@ -1,0 +1,14 @@
+/* CSS Selectors */
+
+img{width: 300px;}
+h1{font-size: 60px;text-shadow: 2px 3px; text-align: center;}
+#finalh4{font-style: italic;border: 3px solid;text-decoration: underline 2px;}
+.class{font-size: 20px;}
+*{font-family: "Inter", sans-serif;}
+
+/* CSS Colors */
+
+h1{color: #303841;}
+p{color: #3A4750;}
+h2,h3,h4{color: #00ADB5;}
+body{background-color: #EEEEEE;}
